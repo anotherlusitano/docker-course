@@ -11,6 +11,7 @@ You need to have installed:
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/)
+- [Minikube](https://minikube.sigs.k8s.io/docs/) (or another tool to start a local Kubernetes cluster)
 - [Kompose](https://kompose.io/)
 
 ## Getting Started
